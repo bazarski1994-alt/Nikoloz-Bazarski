@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NetCam Scanner</string>
+    <string name="scan_network">Сканировать сеть</string>
+    <string name="scanning">Идет сканирование...</string>
+    <string name="stop_scan">Остановить</string>
+    <string name="cameras_found">Найдено камер:</string>
+    <string name="devices_found">Всего устройств:</string>
+</resources>

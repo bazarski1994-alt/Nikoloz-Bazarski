@@ -1,0 +1,6 @@
+{
+  "name": "NetCam Scanner & Android Configurator",
+  "description": "Профессиональный сканер локальной сети и подсетей для обнаружения IP-камер, анализа открытых портов (RTSP, ONVIF, HTTP, DVR) и экспорта настроек для Android устройств.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
